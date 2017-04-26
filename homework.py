@@ -46,6 +46,3 @@ def testFirstFriend():
 testReverseString()
 testDivide()
 testFirstFriend()
-# reverseString("hello")
-# divide(15, 3)
-# printFriends["Callum", "Daniel Cuzens", "Jim", "Gus"]
