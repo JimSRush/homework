@@ -22,7 +22,7 @@ def findFirstFriend(listOfFriends):
 #This function takes a string like Frozen Beard and replaces all the vowels with 'v'
 #so in this case, calling/invoking the function with the string "FrozenBeard" should return "FrvzvnBvvrd"
 #This is a bit extra for experts and may need a bit of thinking about but i bvlvve vn yvv
-#hint: if it seems like a lot of code, remember you can just make a new function to do a little bit of work for you
+#hint: if it seems like a lot of code, remember you can just make a new function to do a little bit of work for you and invoke it when you need it
 def replaceStuffWithVees(string):
     return string #placeholder
 
